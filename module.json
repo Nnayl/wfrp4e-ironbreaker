@@ -1,0 +1,39 @@
+{
+  "id": "wfrp4e-ironbreaker",
+  "title": "WFRP4e - Ironbreaker",
+  "description": "Ironbreaker class from Horned Rat Enemy Within Campaign Companion",
+  "version": "1.0.0",
+  "author": [
+    {
+      "id": "Nnayl"
+    }
+  ],
+  "systems": ["wfrp4e"],
+  "compatibility" : {
+    "minimum": 9,
+    "verified": "10",
+    "maximum": "10"
+  },
+  "packs": [
+   {
+     "name": "career-ironbreaker",
+     "label": "Career - Ironbreaker",
+     "path": "packs/career-ironbreaker.db",
+     "type": "Item",
+     "module": "wfrp4e-ironbreaker",
+     "system": "wfrp4e",
+     "tags" : "career"
+   },
+   {
+     "name": "journalentries-ironbreaker",
+     "label": "Career - Ironbreaker Description",
+     "path": "packs/journalentries-ironbreaker.db",
+     "type": "JournalEntry",
+     "module": "wfrp4e-ironbreaker",
+     "system": "wfrp4e"
+   }
+ ],
+ "url": "https://github.com/Nnayl/wfrp4e-ironbreaker",
+ "manifest": "https://raw.githubusercontent.com/Nnayl/wfrp4e-ironbreaker/master/module.json",
+ "download": "https://github.com/Nnayl/wfrp4e-ironbreaker/archive/refs/tags/1.0.0.zip"
+}
