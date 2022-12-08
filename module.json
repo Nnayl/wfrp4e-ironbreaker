@@ -2,7 +2,7 @@
   "id": "wfrp4e-ironbreaker",
   "title": "WFRP4e - Ironbreaker",
   "description": "Ironbreaker class from Horned Rat Enemy Within Campaign Companion",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     {
       "name": "Nnayl"
@@ -35,5 +35,5 @@
  ],
  "url": "https://github.com/Nnayl/wfrp4e-ironbreaker",
  "manifest": "https://raw.githubusercontent.com/Nnayl/wfrp4e-ironbreaker/master/module.json",
- "download": "https://github.com/Nnayl/wfrp4e-ironbreaker/archive/refs/tags/1.0.1.zip"
+ "download": "https://github.com/Nnayl/wfrp4e-ironbreaker/archive/refs/tags/1.0.2.zip"
 }
